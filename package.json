@@ -1,0 +1,39 @@
+{
+  "name": "slotting",
+  "version": "0.1.0",
+  "description": "Put the fastest-moving SKUs in the nearest slots: ABC in DuckDB SQL, a scoring library and a drag-and-drop slot map",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=20.19"
+  },
+  "bin": {
+    "slotting": "dist/src/cli.js"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "lint": "eslint .",
+    "format": "prettier --check .",
+    "test": "vitest run --coverage",
+    "demo": "node dist/src/cli.js demo",
+    "web": "vite web",
+    "web:build": "vite build web",
+    "figures": "node dist/scripts/figures.js"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.5",
+    "@types/node": "^20.19.43",
+    "@vitest/coverage-v8": "^4.1.12",
+    "eslint": "^9.39.5",
+    "happy-dom": "^21.0.4",
+    "prettier": "^3.9.10",
+    "typescript": "~5.9",
+    "typescript-eslint": "^8.72.1",
+    "vite": "^7.3.7",
+    "vitest": "^4.1.12"
+  },
+  "dependencies": {
+    "@duckdb/node-api": "^1.4.5-r.1"
+  }
+}

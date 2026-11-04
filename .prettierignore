@@ -1,0 +1,6 @@
+dist
+coverage
+node_modules
+web/dist
+package-lock.json
+docs/img

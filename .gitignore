@@ -1,0 +1,6 @@
+node_modules/
+dist/
+coverage/
+web/dist/
+/plan.csv
+/web/public/data.json
