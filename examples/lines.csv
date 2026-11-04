@@ -1,0 +1,11 @@
+day,order,sku,qty
+D1,o0,S1,2
+D1,o1,S1,2
+D1,o2,S1,2
+D1,o3,S1,2
+D1,o4,S1,2
+D1,o5,S1,2
+D1,o0,S2,2
+D1,o1,S2,2
+D1,o2,S3,2
+D2,o3,S4,2
