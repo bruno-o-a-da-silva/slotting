@@ -1,0 +1,56 @@
+body {
+  background: #111111;
+  color: #f5f2e8;
+  font:
+    15px/1.4 system-ui,
+    sans-serif;
+  margin: 2rem;
+}
+h1 small {
+  color: #d4af37;
+  font-size: 0.6em;
+  font-weight: normal;
+}
+.help {
+  color: #b8b3a6;
+}
+.stats {
+  font-size: 1.2rem;
+  color: #d4af37;
+}
+.bar button {
+  background: #222;
+  color: #f5f2e8;
+  border: 1px solid #d4af37;
+  padding: 0.3rem 0.8rem;
+  margin-right: 0.5rem;
+  cursor: pointer;
+}
+.grid {
+  display: grid;
+  gap: 2px;
+  max-width: 900px;
+  margin-top: 1rem;
+}
+.slot {
+  aspect-ratio: 1;
+  cursor: grab;
+}
+.slot:nth-child(2n) {
+  margin-right: 6px;
+}
+.cls-A {
+  background: #d4af37;
+}
+.cls-B {
+  background: #7d6a2a;
+}
+.cls-C {
+  background: #444;
+}
+.cls-empty {
+  background: #1c1c1c;
+}
+.picked {
+  outline: 2px solid #f5f2e8;
+}
