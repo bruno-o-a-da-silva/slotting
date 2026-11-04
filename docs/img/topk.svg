@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420">
+<rect width="720" height="420" fill="#111111"/>
+<text x="70" y="30" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#F5F2E8" text-anchor="start">Walking per day after moving only the k busiest SKUs</text>
+<line x1="70" y1="360" x2="690" y2="360" stroke="#F5F2E8" stroke-width="1"/>
+<line x1="70" y1="360" x2="70" y2="50" stroke="#F5F2E8" stroke-width="1"/>
+<line x1="70" y1="253.86058800000006" x2="690" y2="253.86058800000006" stroke="#7D6A2A" stroke-width="1"/>
+<text x="690" y="247.86058800000006" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#D4AF37" text-anchor="end">full plan 17.1 km</text>
+<polyline fill="none" stroke="#D4AF37" stroke-width="2.5" points="70.0,107.8 77.8,192.1 85.5,208.6 93.3,216.5 101.0,221.5 108.8,226.2 116.5,231.7 124.3,235.1 132.0,238.2 139.8,239.3 147.5,241.1 155.3,241.8 163.0,244.1 170.8,245.1 178.5,245.5 186.3,246.4 194.0,247.0 201.8,247.4 209.5,248.0 217.3,248.6 225.0,248.9 232.8,249.2 240.5,249.7 248.3,250.1 256.0,250.3 263.8,250.4 271.5,250.5 279.3,251.0 287.0,251.2 294.8,251.4 302.5,251.5 310.3,251.7 318.0,251.9 325.8,252.3 333.5,252.5 341.3,252.7 349.0,252.8 356.8,252.8 364.5,252.8 372.3,252.9 380.0,253.0 387.8,253.0 395.5,253.2 403.3,253.2 411.0,253.3 418.8,253.3 426.5,253.4 434.3,253.4 442.0,253.5 449.8,253.5 457.5,253.5 465.3,253.5 473.0,253.6 480.8,253.6 488.5,253.6 496.3,253.6 504.0,253.7 511.8,253.7 519.5,253.7 527.3,253.7 535.0,253.8 542.8,253.8 550.5,253.8 558.3,253.8 566.0,253.8 573.8,253.8 581.5,253.8 589.3,253.8 597.0,253.9 604.8,253.9 612.5,253.9 620.3,253.9 628.0,253.9 635.8,253.9 643.5,253.9 651.3,253.9 659.0,253.9 666.8,253.9 674.5,253.9 682.3,253.9 690.0,253.9"/>
+<line x1="237.4" y1="360" x2="237.4" y2="50" stroke="#444444" stroke-width="1"/>
+<text x="243.4" y="65.5" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#F5F2E8" text-anchor="start">k = 108 (all A)</text>
+<text x="380" y="400" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#F5F2E8" text-anchor="middle">k, SKUs moved</text>
+<text x="60" y="54" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#F5F2E8" text-anchor="end">50 km</text>
+<text x="60" y="364" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#F5F2E8" text-anchor="end">0</text>
+</svg>
